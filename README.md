@@ -1,5 +1,8 @@
-### Hi there 👋
-Personal Portfolio Website
+## Hi!
+#### I'm a junior at UNC Chapel Hill studying Computer Science and Hispanic Studies
+
+### Personal Portfolio Website
+
 https://tannerm03.github.io/tannermacpherson/
 <!--
 **TannerM03/tannerm03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
